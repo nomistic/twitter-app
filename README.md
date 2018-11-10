@@ -2,8 +2,8 @@
  =====================
  This tool is a lightweight application which makes use of Twitter's API.
                                           
- The connection to Twitter's OAuth authentication was made using a third-party library twitter-api-php library
-                     The view is created using the Twig Library
+ The connection to Twitter's OAuth authentication was made using a third-party library twitter-api-php library.
+ The view is created using the Twig Library
               
                      
 **Installation**
