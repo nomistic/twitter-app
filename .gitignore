@@ -1,0 +1,7 @@
+/vendor
+*.phar
+.idea/
+*.iml
+/vendor/
+/bin/
+/cache/
