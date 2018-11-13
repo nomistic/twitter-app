@@ -9,10 +9,16 @@
 **Installation**
 --
                      
+You will need to have composer installed. 
+
 Simply run 
                      
     composer update
                      
+Or if you are running windows
+
+    php composer.phar update
+
 This will install the twitter-api-php library as well as the twig library
                      
 Configuration
