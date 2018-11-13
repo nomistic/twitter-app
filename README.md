@@ -4,6 +4,10 @@
                                           
  The connection to Twitter's OAuth authentication was made using a third-party library twitter-api-php library.
  The view is created using the Twig Library
+ 
+ To view a working version, you can see it here:
+ 
+https://jsimonconsulting.com/twitter/
               
                      
 **Installation**
